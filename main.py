@@ -259,5 +259,5 @@ def menu_func(message):
 
 
 if __name__ == '__main__':
-    print("Bot was been started")
+    print("Bot started!")
     main_bot.infinity_polling()
